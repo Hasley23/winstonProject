@@ -1,0 +1,11 @@
+8
+Cambridge 23 23:23
+Bristol 15 8:00
+Derby 19 15:45
+Lancaster 37 14:00
+Sheffield 18 17:25
+Norwich 22 22:50
+Manchester 53 13:30
+Liverpool 80 17:40
+#
+
