@@ -1,3 +1,4 @@
+//ПРОГРАММА ЯВЛЯЕТСЯ УЧЕБНОЙ агаг
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
