@@ -20,7 +20,11 @@ struct train
 
 typedef struct train train;
 
+<<<<<<< HEAD
 void sortAZ(train *, int);
+=======
+void sortAZ(train *, int); //tired
+>>>>>>> newBranch
 int writeBinary(train *, int);
 int readBinary(train *);
 int showTrain(long);
