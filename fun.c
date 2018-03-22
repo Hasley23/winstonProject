@@ -1,4 +1,5 @@
 //based on idea of mindless person
+//it's true, I'm not kidding you
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
