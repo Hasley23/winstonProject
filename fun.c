@@ -1,3 +1,4 @@
+//based on idea of mindless person
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
